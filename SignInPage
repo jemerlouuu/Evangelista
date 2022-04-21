@@ -36,9 +36,10 @@
           margin-left: 30px;
         "
       >
-        EETECH <span style="color: rgba(255, 255, 255, 0.9)">INNOVATION</span>
+        PUP <span style="color: rgba(255, 255, 255, 0.9)">BIÑAN CAMPUS</span>
       </h6>
       <div style="flex: 1"></div>
+      
       <h6
         style="
           font-family: OpenSans;
@@ -56,7 +57,7 @@
           color: rgba(255, 255, 255, 0.9);
         "
       >
-        BOARD REPAIR
+        ACADEMIC
       </h6>
       <div style="width: 20px"></div>
       <h6
@@ -66,53 +67,10 @@
           color: rgba(255, 255, 255, 0.9);
         "
       >
-        PROJECTS
-      </h6>
-      <div style="width: 20px"></div>
-      <h6
-        style="
-          font-family: OpenSans;
-          letter-spacing: 2px;
-          color: rgba(255, 255, 255, 0.9);
-        "
-      >
-        FABRICATION
-      </h6>
-      <div style="width: 20px"></div>
-      <h6
-        style="
-          font-family: OpenSans;
-          letter-spacing: 2px;
-          color: rgba(255, 255, 255, 0.9);
-        "
-      >
-        MACHINE
-      </h6>
-      <div style="width: 20px"></div>
-      <h6
-        style="
-          font-family: OpenSans;
-          letter-spacing: 2px;
-          color: rgba(255, 255, 255, 0.9);
-        "
-      >
-        SHOP
-      </h6>
-      <div style="width: 20px"></div>
-      <h6
-        style="
-          font-family: OpenSans;
-          letter-spacing: 2px;
-          color: rgba(255, 255, 255, 0.9);
-        "
-      >
-        MORE
+        ABOUT PUP
       </h6>
       <div style="width: 50px"></div>
-      <img src="icons/search_icon.png" style="height: 20px; width: 20px" />
-      <div style="width: 10px"></div>
-      <img src="icons/cart_icon.png" style="height: 20px; width: 20px" />
-      <div style="width: 10px"></div>
+      
       <img src="icons/account_icon.png" style="height: 20px; width: 20px" />
     </div>
     <div
